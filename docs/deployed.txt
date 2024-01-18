@@ -1,0 +1,70 @@
+V1:
+    CharlesToken contract address:      0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76
+    MiniGameProposal contract address:  0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76
+
+Token address:
+    V1:
+        Token address: 0x5692DA15d11B8135Fe2c085734CBF25D88d1098A
+        Deploying completed!
+        Verifying contract on BSC...
+        Successfully submitted source code for contract
+        contracts/token/CharlesToken.sol:CharlesToken at 0x5692DA15d11B8135Fe2c085734CBF25D88d1098A
+        for verification on the block explorer. Waiting for verification result...
+        Successfully verified contract CharlesToken on the block explorer.
+        https://testnet.bscscan.com/address/0x5692DA15d11B8135Fe2c085734CBF25D88d1098A#code
+
+
+MiniGameProposal:
+    V1_Upgraded:
+        Deploying contracts with the account: 0x757107669F696E7ddBe53dB850b48F0a4386DCE9
+        Account balance: 756907260000000000
+        Address: 0x757107669F696E7ddBe53dB850b48F0a4386DCE9
+        Upgrade processing ...!
+        Upgrade completed!
+        Verifying contract on BSC...
+        Verifying implementation: 0xbF2457806716B719fd8516d194214ab200b7e0b6
+        The contract 0xbF2457806716B719fd8516d194214ab200b7e0b6 has already been verified on Etherscan.
+        https://testnet.bscscan.com/address/0xbF2457806716B719fd8516d194214ab200b7e0b6#code
+        Verifying proxy: 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76
+        Contract at 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76 already verified.
+        Linking proxy 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76 with implementation
+        Successfully linked proxy to implementation.
+        Verifying proxy admin: 0x16B0598B23f855839df61F72f04F68605AEB117d
+        Contract at 0x16B0598B23f855839df61F72f04F68605AEB117d already verified.
+        Proxy fully verified.
+
+        Deploying contracts with the account: 0x757107669F696E7ddBe53dB850b48F0a4386DCE9
+        Account balance: 757633140000000000
+        Address: 0x757107669F696E7ddBe53dB850b48F0a4386DCE9
+        Upgrade processing ...!
+        Upgrade completed!
+        Verifying contract on BSC...
+        Verifying implementation: 0xbF2457806716B719fd8516d194214ab200b7e0b6
+        The contract 0xbF2457806716B719fd8516d194214ab200b7e0b6 has already been verified on Etherscan.
+        https://testnet.bscscan.com/address/0xbF2457806716B719fd8516d194214ab200b7e0b6#code
+        Verifying proxy: 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76
+        Contract at 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76 already verified.
+        Linking proxy 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76 with implementation
+        Successfully linked proxy to implementation.
+        Verifying proxy admin: 0x16B0598B23f855839df61F72f04F68605AEB117d
+        Contract at 0x16B0598B23f855839df61F72f04F68605AEB117d already verified.
+        Proxy fully verified.
+    V1:
+        Deploying processing ...!
+        Wait for deploy new contract address: 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76
+        Deploying completed!
+        Contract MiniGameProposal address: 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76
+        Verifying contract on BSC...
+        Verifying implementation: 0xbF2457806716B719fd8516d194214ab200b7e0b6
+        Successfully submitted source code for contract
+        contracts/games/MiniGameProposal.sol:MiniGameProposal at 0xbF2457806716B719fd8516d194214ab200b7e0b6
+        for verification on the block explorer. Waiting for verification result...
+        Successfully verified contract MiniGameProposal on the block explorer.
+        https://testnet.bscscan.com/address/0xbF2457806716B719fd8516d194214ab200b7e0b6#code
+        Verifying proxy: 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76
+        Contract at 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76 already verified.
+        Linking proxy 0xF92bc45127ca1ed820aAE5CB6E58248cd383cF76 with implementation
+        Successfully linked proxy to implementation.
+        Verifying proxy admin: 0x16B0598B23f855839df61F72f04F68605AEB117d
+        Contract at 0x16B0598B23f855839df61F72f04F68605AEB117d already verified.
+        Proxy fully verified
