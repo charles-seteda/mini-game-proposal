@@ -26,6 +26,7 @@ ETHERSCAN_API_KEY_BSC_TESTNET=[Your_Testnet_Api_Key]
  
 
 ## Build:
+- $ yarn install
 - $ npx hardhat compile
 ## Deploy:
 - $ npx hardhat run  scripts/deployToken.ts --network bscTestnet
